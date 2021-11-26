@@ -1,0 +1,25 @@
+{
+  "name": "d4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node intro/index.js",
+    "dev": "ts-node exercise/ts-basic.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andasan/a0521-intro-to-typescript.git"
+  },
+  "bugs": {
+    "url": "https://github.com/andasan/a0521-intro-to-typescript/issues"
+  },
+  "homepage": "https://github.com/andasan/a0521-intro-to-typescript#readme",
+  "description": ""
+}
